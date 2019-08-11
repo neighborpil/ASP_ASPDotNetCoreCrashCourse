@@ -1,0 +1,11 @@
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section3\aspnetcore\bin\Debug\netcoreapp2.1\aspnetcore.deps.json
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section3\aspnetcore\bin\Debug\netcoreapp2.1\aspnetcore.runtimeconfig.json
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section3\aspnetcore\bin\Debug\netcoreapp2.1\aspnetcore.runtimeconfig.dev.json
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section3\aspnetcore\bin\Debug\netcoreapp2.1\aspnetcore.dll
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section3\aspnetcore\bin\Debug\netcoreapp2.1\aspnetcore.pdb
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section3\aspnetcore\obj\Debug\netcoreapp2.1\aspnetcore.csprojAssemblyReference.cache
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section3\aspnetcore\obj\Debug\netcoreapp2.1\aspnetcore.csproj.CoreCompileInputs.cache
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section3\aspnetcore\obj\Debug\netcoreapp2.1\aspnetcore.AssemblyInfoInputs.cache
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section3\aspnetcore\obj\Debug\netcoreapp2.1\aspnetcore.AssemblyInfo.cs
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section3\aspnetcore\obj\Debug\netcoreapp2.1\aspnetcore.dll
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section3\aspnetcore\obj\Debug\netcoreapp2.1\aspnetcore.pdb

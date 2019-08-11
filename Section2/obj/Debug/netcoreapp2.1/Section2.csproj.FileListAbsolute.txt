@@ -1,0 +1,14 @@
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section2\bin\Debug\netcoreapp2.1\Section2.deps.json
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section2\bin\Debug\netcoreapp2.1\Section2.runtimeconfig.json
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section2\bin\Debug\netcoreapp2.1\Section2.runtimeconfig.dev.json
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section2\bin\Debug\netcoreapp2.1\Section2.dll
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section2\bin\Debug\netcoreapp2.1\Section2.pdb
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section2\obj\Debug\netcoreapp2.1\Section2.csprojAssemblyReference.cache
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section2\obj\Debug\netcoreapp2.1\Section2.csproj.CoreCompileInputs.cache
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section2\obj\Debug\netcoreapp2.1\Section2.RazorAssemblyInfo.cache
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section2\obj\Debug\netcoreapp2.1\Section2.RazorAssemblyInfo.cs
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section2\obj\Debug\netcoreapp2.1\Section2.AssemblyInfoInputs.cache
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section2\obj\Debug\netcoreapp2.1\Section2.AssemblyInfo.cs
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section2\obj\Debug\netcoreapp2.1\Section2.RazorTargetAssemblyInfo.cache
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section2\obj\Debug\netcoreapp2.1\Section2.dll
+C:\codes\GitRepository\ASP_ASPDotNetCoreCrashCourse\Section2\obj\Debug\netcoreapp2.1\Section2.pdb
